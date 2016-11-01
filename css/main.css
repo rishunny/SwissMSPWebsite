@@ -113,6 +113,12 @@ section.people {
         margin: 0;
     }
 
+    .person h3 {
+        font-size: 1.1em;
+        font-weight: 600;
+        margin: 0;
+    }
+
     .person .icon-container {
         vertical-align: bottom;
         margin: 1em 0 1em -0.5em;
